@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 function App() {
   return (
 <div>
-  <Navbar /v>
+  <Navbar />
   {/* Rest of your app content goes here */}
 </div>
 );
